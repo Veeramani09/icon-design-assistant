@@ -1,0 +1,12 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z" stroke="black"/>
+<circle cx="8" cy="4" r="1" fill="black"/>
+<circle cx="8" cy="8" r="1" fill="black"/>
+<circle cx="4" cy="8" r="1" transform="rotate(-90 4 8)" fill="black"/>
+<circle cx="5.17163" cy="10.8284" r="1" transform="rotate(-135 5.17163 10.8284)" fill="black"/>
+<circle cx="5.17166" cy="5.17163" r="1" transform="rotate(-45 5.17166 5.17163)" fill="black"/>
+<circle cx="8" cy="12" r="1" fill="black"/>
+<circle cx="12" cy="8" r="1" transform="rotate(-90 12 8)" fill="black"/>
+<circle cx="10.8284" cy="5.1716" r="1" transform="rotate(-135 10.8284 5.1716)" fill="black"/>
+<circle cx="10.8284" cy="10.8284" r="1" transform="rotate(-45 10.8284 10.8284)" fill="black"/>
+</svg>
